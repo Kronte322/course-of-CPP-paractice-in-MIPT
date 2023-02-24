@@ -1,1 +1,1 @@
-# course-of-CPP-paractice-in-MIPT
+# course-of-CPP-practice-in-MIPT
